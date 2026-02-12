@@ -1,5 +1,5 @@
 # Python Crash Course 
-Hope to made programming click for me after many past attempts about the basics. Hope this is a really excellent book.
+Hope to made programming click for me after many past attempts about the basics. Hope this is a really excellent book. Aim of this repository is not only a study log of mine but also hopefully serves as a learning material for future readers.
 
 Since I have covered some basics of Python before from A Beginners Guide to Python 3 Programming, I will skip the things that I already know in the notebooks and srcs.
 
@@ -19,10 +19,15 @@ This repository is a structured Python 3 learning process, built from the book P
 - Data types and string operations
 ### Lesson 2 Chapter 3-4
 - List
+- loops
 
 ## Tools
 - Python 3
 - VS Code
 - Jupyter Notebook
+
+## Other resources
+-  PEP8 Style Guide for Python Code: https://peps.python.org/pep-0008/ 
+
 
 This repository is part of my preparation for data science roles.
