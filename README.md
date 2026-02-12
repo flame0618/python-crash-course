@@ -20,6 +20,8 @@ This repository is a structured Python 3 learning process, built from the book P
 ### Lesson 2 Chapter 3-4
 - List
 - loops
+### Lesson 3 Chapter 5
+- If statements
 
 ## Tools
 - Python 3
