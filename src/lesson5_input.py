@@ -7,6 +7,7 @@ Chapter 7
 - Using break and continue in loops
 """
 def price(age):
+    """Print the price of a ticket based on the age."""
     if age < 3:
         print("The ticket is free")
     elif age < 12:

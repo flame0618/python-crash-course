@@ -29,6 +29,8 @@ This repository is a structured Python 3 learning process, built from the book P
 - Input and while loops
 ### Lesson 6 Chapter 8
 - Functions and modules
+### Lesson 7 Chapter 9
+- Classes
 
 ## Tools
 - Python 3
