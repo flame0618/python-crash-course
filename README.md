@@ -11,6 +11,7 @@ This repository is a structured Python 3 learning process, built from the book P
 ## Structure
 - `notebooks/`: Interactive lessons and explanations
 - `src/`: Clean Python scripts
+- `projects/`: Some small projects 
 - Each lesson has both a notebook and a script version
 
 ## Lessons
